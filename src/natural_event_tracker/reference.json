@@ -1,0 +1,6 @@
+{
+    "find_open": "https://eonet.gsfc.nasa.gov/api/v3/events?status=open",
+    "find_all": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all",
+    "api_key": "WysbuW8M2rhXNLd8XbWPcUfiuq2qv2QTSJ8vrqD8",
+    "find_categories": "https://eonet.gsfc.nasa.gov/api/v3/categories"
+}
