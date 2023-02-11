@@ -15,7 +15,6 @@ The main part of the application (natural\_event\_tracker.py file) consists of:
 *User Manual:*
 
 Basic steps to make the application work:
-
 1) You must have version 3+ of Python downloaded. 
 1) You need to install additional python libraries by typing in the terminal commands: 
    1. pip install requests
@@ -23,9 +22,7 @@ Basic steps to make the application work:
 1) To run the program, open the src folder in the terminal and then enter the command:
    1. python visualization.py
 
-This will create a filemap.html in the main folder of application and display the
-
-map in the browser. Markers are reflecting the exact location of the event. After clicking the marker, a short description is shown above it. You can freelymove with the mouse and zoom in and out with the option "+" and "-" in the upper left corner. Under the zoom option is locate a filtering option. When you click that, it will display the categories of events on the map. After selecting a category, only those tags that display the same category will be shown.
+This will create a filemap.html in the main folder of application and display themap in the browser. Markers are reflecting the exact location of the event. After clicking the marker, a short description is shown above it. You can freelymove with the mouse and zoom in and out with the option "+" and "-" in the upper left corner. Under the zoom option is locate a filtering option. When you click that, it will display the categories of events on the map. After selecting a category, only those tags that display the same category will be shown.
 
 *Personal opinion part:*
 
